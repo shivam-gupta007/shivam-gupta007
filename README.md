@@ -1,7 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**shivam-gupta007/shivam-gupta007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👦 About Me
+
+I am Shivam Gupta, An Android Developer (Specializing in android application in kotlin & java). Also, I am a third-year student at Teerthanker Mahaveer University, Moradabad, UP, pursuing a Bachelor of Computer Applications degree.
+
+<!-- **shivam-gupta007/shivam-gupta007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
