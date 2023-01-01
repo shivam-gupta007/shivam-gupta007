@@ -1,28 +1,24 @@
-<h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
-<h3 align="center">A passionate android developer from India</h3>
+# 💫 About Me:
+😎 As a skilled Android developer with over a year of experience, I have a passion for crafting innovative and intuitive mobile apps that provide a seamless user experience.<br><br>🎮 My expertise in technologies such as Firebase, Google Cloud Platform, Jetpack Compose, and Room database allows me to build robust and scalable apps that meet the needs of a wide range of users.<br><br>🤩 I have also had the opportunity to work with Android App Links, OAuth2, and Google Calendar API, giving me a strong foundation in implementing secure and efficient authentication and integration with external services. <br><br>✨ My background in UI/UX design ensures that my apps are visually appealing and easy to navigate.<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-gupta007&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-gupta007" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shivamgupta006" target="blank"><img src="https://img.shields.io/twitter/follow/shivamgupta006?logo=twitter&style=for-the-badge" alt="shivamgupta006" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-gupta-0017) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shivamgupta007) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ShivamGupta006) 
 
-- 🌱 I’m currently learning **Jetpack compose**
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shivam-gupta007&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivam-gupta007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-gupta007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 💬 Ask me about **Kotlin, Java, Android, Jetpack Compose and Firebase**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shivam-gupta007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 📫 How to reach me **shivamgupta96900@gmail.com**
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=ShivamGupta006)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shivamgupta006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivamgupta006" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivam-gupta-0017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-gupta-0017" height="30" width="40" /></a>
-<a href="https://shivam-gupta.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sgdev07" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-gupta007&show_icons=true&locale=en&layout=compact" alt="shivam-gupta007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-gupta007&show_icons=true&locale=en" alt="shivam-gupta007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-gupta007&" alt="shivam-gupta007" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
