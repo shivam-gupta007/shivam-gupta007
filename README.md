@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 As a skilled Android developer with over a year of experience, I have a passion for crafting innovative and intuitive mobile apps that provide a seamless user experience.<br><br>🎮 My expertise in technologies such as Firebase, Google Cloud Platform, Jetpack Compose, and Room database allows me to build robust and scalable apps that meet the needs of a wide range of users.<br><br>🤩 I have also had the opportunity to work with Android App Links, OAuth2, and Google Calendar API, giving me a strong foundation in implementing secure and efficient authentication and integration with external services. <br><br>✨ My background in UI/UX design ensures that my apps are visually appealing and easy to navigate.<br>
+I am a native Android Developer.
 
 
 ## 🌐 Socials:
