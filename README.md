@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a native Android Developer.
-I enjoy Apps UI designing.
+I enjoy App UI designing.
 
 
 ## 🌐 Socials:
