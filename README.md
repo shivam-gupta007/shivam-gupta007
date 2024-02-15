@@ -1,6 +1,13 @@
 # 💫 About Me:
-I am a native Android Developer.
-I enjoy App UI designing.
+
+- Hi! I'm Shivam Gupta, an Android developer and designer building native apps with Kotlin, XML, and Jetpack Compose. 
+- I love crafting beautiful UI experiences for mobile.
+- Check out my published apps on the [Play Store](https://play.google.com/store/apps/dev?id=9096198195270997613)
+
+
+
+### Looking to connect? 
+I'm open to collaborating on open-source projects or discussing mobile dev/design! please email me at shivamgupta96900@gmail.com.
 
 
 ## 🌐 Socials:
